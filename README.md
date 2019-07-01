@@ -12,3 +12,10 @@ For science!
 ### What You'll Be Building
 
 You'll be taking the product of one of the inferiorly-named versions of the majestic Mountain Screamer - either [Copy Cougar](https://github.com/abbreviatedman/copy-cougar) or [Copy Puma](https://github.com/abbreviatedman/copy-puma). You'll fork it--using GitHub's new New Repo from Template feature!--, strip out any Flexbox- or Grid-related rules, and give our html some Bootstrap classes to re-implement our various layouts.
+
+
+### Guidelines
+
+* You _should_ have most of the content there already, so our main focus is on re-implementing each of our responsive layouts.
+* That said, if you still need to get some content in there, make it happen!
+* 

@@ -11,7 +11,7 @@ For science!
 
 ### What You'll Be Building
 
-You'll be taking the product of one of the inferiorly-named versions of the majestic Mountain Screamer - either [Copy Cougar](https://github.com/abbreviatedman/copy-cougar) or [Copy Puma](https://github.com/abbreviatedman/copy-puma), whichever you prefer (and whether that preference is for a good match for Bootstrap or a... challenging match). You'll fork it--using GitHub's new New Repo from Template feature!--, strip out any Flexbox- or Grid-related rules, and give our html some Bootstrap classes to re-implement our various layouts.
+You'll be taking the product of one of the inferiorly-named versions of the majestic Mountain Screamer - either [Copy Cougar](https://github.com/abbreviatedman/copy-cougar) or [Copy Puma](https://github.com/abbreviatedman/copy-puma), whichever you prefer (and whether that preference is for a good match for Bootstrap or a... challenging match). You'll fork it (feel free to [use GitHub's New Repo from Template feature!](https://github.com/abbreviatedman/how-to-fork-yourself-with-GitHub-template-repos))--, strip out any Flexbox- or Grid-related rules, and give our html some Bootstrap classes to re-implement our various layouts.
 
 
 ### Guidelines

@@ -29,4 +29,4 @@ You'll be taking the product of one of the inferiorly-named versions of the maje
 
 * Redo one element from your page with a Bootstrap component, extending the class to match the page around it.
 * Redo more elements as Bootstrap components!
-* More coming soon!
+* More coming as soon as I think of them!
